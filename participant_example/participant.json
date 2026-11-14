@@ -1,0 +1,14 @@
+{
+    "name": "participant",
+    "participantName": "Cart",
+    "body": [
+        {
+            "name": "structural_type",
+            "value": "list"
+        },
+        {
+            "name": "list_contains",
+            "value": ["Coffee", "Bagel"]
+        }
+    ]
+}
