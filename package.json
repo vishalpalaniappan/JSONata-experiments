@@ -1,0 +1,22 @@
+{
+    "name": "JSONata-Experiments",
+    "version": "0.0.0",
+    "description": "Contains JSONata experiments to parse and transform Artha IR files.",
+    "type": "module",
+    "scripts": {
+        "start": ""
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/vishalpalaniappan/JSONata-experiments.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/vishalpalaniappan/JSONata-experiments/issues"
+    },
+    "homepage": "https://github.com/vishalpalaniappan/JSONata-experiments#readme",
+    "dependencies": {
+        "jsonata": "^2.2.2"
+    }
+}
