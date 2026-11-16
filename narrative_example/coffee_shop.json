@@ -89,11 +89,21 @@
             "body": [
                 {
                     "name": "structural_type",
-                    "value": "string"
+                    "value": "list"
                 },
                 {
                     "name": "list_contains",
                     "value": ["Coffee", "Bagel"]
+                }
+            ]
+        },
+        {
+            "name": "participant",
+            "participantName": "Cart2",
+            "body": [
+                {
+                    "name": "structural_type",
+                    "value": "list"
                 }
             ]
         },
